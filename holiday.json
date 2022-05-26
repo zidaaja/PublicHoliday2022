@@ -1,0 +1,103 @@
+[
+    {
+      "nama_bulan" : "Januari",
+      "liburan" : 
+      [
+        "2022-01-1, Tahun Baru Masehi",
+        "2022-01-1, Hari Siwa Ratri"
+      ]
+    },
+    {
+      "nama_bulan" : "Februari",
+      "liburan" : 
+        [
+            "2022-02-1, Tahun Baru Imlek 2573 Kongzili",
+            "2022-02-28, Isra Mikraj Nabi Muhammad SAW"
+        ]
+    },
+    {
+        "nama_bulan" : "Maret",
+        "liburan" : 
+          [
+              "2022-03-3, Hari Raya Nyepi",
+              "2022-03-26, Hari Saraswati"
+          ]
+    },
+    {
+        "nama_bulan" : "April",
+        "liburan" : 
+          [
+              "2022-04-15, Wafat Isa Al Masih",
+              "2022-04-17, Hari Paskah",
+              "2022-04-21, Hari Kartini"
+          ]
+    },
+    {
+        "nama_bulan" : "Mei",
+        "liburan" : 
+          [
+              "2022-05-1, Hari Buruh Internasional",
+              "2022-05-2, Hari Raya Idul Fitri 1443 Hijriyah",
+              "2022-05-3, Hari Raya Idul Fitri 1443 Hijriyah",
+              "2022-05-16, Hari Raya Waisak 2566",
+              "2022-05-26, Kenaikan Isa Al Masih"
+          ]
+    },
+    {
+        "nama_bulan" : "Juni",
+        "liburan" : 
+          [
+              "2022-06-1, Hari Lahirnya Pancasila",
+              "2022-06-7, Penampahan Galungan",
+              "2022-06-8, Hari Raya Galungan",
+              "2022-06-9, Umanis Galungan",
+              "2022-06-18, Hari Raya Kuningan"
+          ]
+    },
+    {
+        "nama_bulan" : "Juli",
+        "liburan" : 
+          [
+              "2022-07-9, Hari Raya Idul Adha 1443 Hijriyah",
+              "2022-07-30, Tahun Baru Islam 1444 Hijriyah"
+          ]
+    },
+    {
+        "nama_bulan" : "Agustus",
+        "liburan" : 
+          [
+              "2022-08-17, Hari Proklamasi Kemerdekaan RI",
+              "2022-03-26, Hari Saraswati"
+          ]
+    },
+    {
+        "nama_bulan" : "September",
+        "liburan" : 
+          [
+              "-"
+          ]
+    },
+    {
+        "nama_bulan" : "Oktober",
+        "liburan" : 
+          [
+              "2022-10-2, Hari Batik",
+              "2022-10-8, Maulid Nabi Muhammad SAW",
+              "2022-10-24, Diwali"
+          ]
+    },
+    {
+        "nama_bulan" : "November",
+        "liburan" : 
+          [
+              "-"
+          ]
+    },
+    {
+        "nama_bulan" : "Desember",
+        "liburan" : 
+          [
+              "2022-12-25, Hari Raya Natal"
+          ]
+    }
+]
