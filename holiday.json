@@ -3,71 +3,71 @@
       "nama_bulan" : "Januari",
       "liburan" : 
       [
-        "2022-01-1, Tahun Baru Masehi",
-        "2022-01-1, Hari Siwa Ratri"
+        "1 Januari 2022 Tahun Baru Masehi",
+        "1 Januari 2022 Hari Siwa Ratri"
       ]
     },
     {
       "nama_bulan" : "Februari",
       "liburan" : 
         [
-            "2022-02-1, Tahun Baru Imlek 2573 Kongzili",
-            "2022-02-28, Isra Mikraj Nabi Muhammad SAW"
+            "1 Februari 2022 Tahun Baru Imlek 2573 Kongzili",
+            "28 Februari 2022 Isra Mikraj Nabi Muhammad SAW"
         ]
     },
     {
         "nama_bulan" : "Maret",
         "liburan" : 
           [
-              "2022-03-3, Hari Raya Nyepi",
-              "2022-03-26, Hari Saraswati"
+              "3 Maret 2022 Hari Raya Nyepi",
+              "26, Maret 2022 Hari Saraswati"
           ]
     },
     {
         "nama_bulan" : "April",
         "liburan" : 
           [
-              "2022-04-15, Wafat Isa Al Masih",
-              "2022-04-17, Hari Paskah",
-              "2022-04-21, Hari Kartini"
+              "15 April 2022 Wafat Isa Al Masih",
+              "17 April 2022 Hari Paskah",
+              "21 April 2022 Hari Kartini"
           ]
     },
     {
         "nama_bulan" : "Mei",
         "liburan" : 
           [
-              "2022-05-1, Hari Buruh Internasional",
-              "2022-05-2, Hari Raya Idul Fitri 1443 Hijriyah",
-              "2022-05-3, Hari Raya Idul Fitri 1443 Hijriyah",
-              "2022-05-16, Hari Raya Waisak 2566",
-              "2022-05-26, Kenaikan Isa Al Masih"
+              "1 Mei 2022 Hari Buruh Internasional",
+              "2 Mei 2022 Hari Raya Idul Fitri 1443 Hijriyah",
+              "3 Mei 2022 Hari Raya Idul Fitri 1443 Hijriyah",
+              "16 Mei 2022 Hari Raya Waisak 2566",
+              "26 Mei 2022 Kenaikan Isa Al Masih"
           ]
     },
     {
         "nama_bulan" : "Juni",
         "liburan" : 
           [
-              "2022-06-1, Hari Lahirnya Pancasila",
-              "2022-06-7, Penampahan Galungan",
-              "2022-06-8, Hari Raya Galungan",
-              "2022-06-9, Umanis Galungan",
-              "2022-06-18, Hari Raya Kuningan"
+              "1 Juni 2022 Hari Lahirnya Pancasila",
+              "7 Juni 2022 Penampahan Galungan",
+              "8 Juni 2022 Hari Raya Galungan",
+              "9 Juni 2022 Umanis Galungan",
+              "18 Juni 2022 Hari Raya Kuningan"
           ]
     },
     {
         "nama_bulan" : "Juli",
         "liburan" : 
           [
-              "2022-07-9, Hari Raya Idul Adha 1443 Hijriyah",
-              "2022-07-30, Tahun Baru Islam 1444 Hijriyah"
+              "9 Juli 2022 Hari Raya Idul Adha 1443 Hijriyah",
+              "30 Juli 2022 Tahun Baru Islam 1444 Hijriyah"
           ]
     },
     {
         "nama_bulan" : "Agustus",
         "liburan" : 
           [
-              "2022-08-17, Hari Proklamasi Kemerdekaan RI",
-              "2022-03-26, Hari Saraswati"
+              "17 Agustus 2022 Hari Proklamasi Kemerdekaan RI",
+              "26 Agustus 2022 Hari Saraswati"
           ]
     },
     {
@@ -81,9 +81,9 @@
         "nama_bulan" : "Oktober",
         "liburan" : 
           [
-              "2022-10-2, Hari Batik",
-              "2022-10-8, Maulid Nabi Muhammad SAW",
-              "2022-10-24, Diwali"
+              "2 Oktober 2022 Hari Batik",
+              "8 Oktober 2022 Maulid Nabi Muhammad SAW",
+              "24 Oktober 2022 Diwali"
           ]
     },
     {
@@ -97,7 +97,7 @@
         "nama_bulan" : "Desember",
         "liburan" : 
           [
-              "2022-12-25, Hari Raya Natal"
+              "25 Desember 2022 Hari Raya Natal"
           ]
     }
 ]
